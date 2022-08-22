@@ -1,0 +1,50 @@
+body{
+width: 80%;
+}
+
+.incluir {
+    width: 200px;
+ 
+    margin-top: 50px;
+    display: flex;
+}
+
+.mtlef{
+    margin-left: 5%;
+}
+
+.hduser{
+    width: 300px;
+}
+
+.titlepessoa{
+    width: 310px;
+    background-color: rgb(202, 202, 202);
+}
+.titlepessoa2{
+    height: 30px;
+    width: 230px;
+    background-color: rgb(226, 226, 226);
+}
+
+.divact{
+    display: flex;
+}
+
+.divresults{
+  
+    width: 80%;
+    display: flex;
+}
+
+
+.divresults2{
+    width: 50%;
+    margin-left: 10%;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#messagedisplay{
+    padding: 5%;
+}
